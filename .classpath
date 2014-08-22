@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="/Applications/eclipse/plugins/org.apache.commons.lang_2.4.0.v201005080502.jar"/>
+	<classpathentry kind="lib" path="/Users/heather/Documents/workspace/lingpipe-book-code-0.2/lib/lingpipe-4.0.1.jar"/>
+	<classpathentry kind="lib" path="/Users/heather/speech/sphinx_pure/sphinx4-1.0beta3-src/sphinx4-1.0beta3/lib/sphinx4.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
